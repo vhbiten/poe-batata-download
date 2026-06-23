@@ -28,15 +28,15 @@ Faz backup automático e permite restaurar a qualquer momento.
 
 ## Como baixar e rodar
 
-1. Em **[Releases](../../releases/latest)**, baixe o `PoeBatata.exe`.
-2. **Feche o Path of Exile**, abra o app, marque as opções e clique **Aplicar**.
+1. Em **[Releases](../../releases/latest)**, baixe o **`PoeBatata.zip`** e **extraia** a pasta.
+2. **Feche o Path of Exile**, abra o **`PoeBatata.exe`**, marque as opções e clique **Aplicar**.
 3. Abra o jogo (a tecla **F1** mostra o FPS).
 
-O app cuida do resto sozinho: detecta a instalação do jogo e prepara automaticamente a biblioteca de compressão necessária (ele a encontra em algum jogo que você já tem no PC). Você não precisa instalar nem configurar nada.
+O `.zip` já vem com tudo o que precisa. Mantenha os arquivos extraídos **na mesma pasta**.
 
 Para desfazer: botão **Restaurar tudo**, ou Steam → Verificar integridade.
 
-> Se o item **"Biblioteca de partículas"** aparecer como não encontrada, basta ter qualquer jogo feito em Unreal Engine instalado (a maioria das pessoas já tem). Os ajustes de gráfico e áudio funcionam mesmo sem ela.
+> Prefere o executável avulso? O `PoeBatata.exe` também está solto no Releases. Nesse caso o app procura a biblioteca de partículas nos jogos que você já tem; se não achar, gráficos e áudio funcionam mesmo assim.
 
 ## ⚠️ Aviso
 
