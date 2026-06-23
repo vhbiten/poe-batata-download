@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" width="120" alt="PoE Batata"/>
-  <h1>PoE Batata 🥔</h1>
+  <h1>PoE Batata</h1>
   <p><b>Faz o PoE rodar até nessa sua batata gamer.</b><br/>Melhoria no FPS e menos poluição visual no Path of Exile</p>
   <p><a href="../../releases/latest"><b>⬇️ BAIXAR (Releases)</b></a></p>
   <br/>
