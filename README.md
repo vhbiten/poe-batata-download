@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="logo.png" width="120" alt="PoE Smoother Free"/>
-  <h1>PoE Smoother Free</h1>
-  <p><b>Mais FPS, menos poluição visual no Path of Exile 1.</b></p>
+  <img src="logo.png" width="120" alt="PoE Batata"/>
+  <h1>PoE Batata 🥔</h1>
+  <p><b>Faz o PoE rodar até na batata.</b><br/>Mais FPS e menos poluição visual no Path of Exile 1.</p>
   <p><a href="../../releases/latest"><b>⬇️ BAIXAR (Releases)</b></a></p>
 </div>
 
@@ -17,7 +17,7 @@ Detecta a instalação do jogo automaticamente (Steam ou standalone), faz backup
 
 ## Como baixar e rodar
 
-1. Vá em **[Releases](../../releases/latest)** e baixe o `PoeSmootherFree.exe`.
+1. Vá em **[Releases](../../releases/latest)** e baixe o `PoeBatata.exe`.
 2. **Requisito:** coloque um `oo2core_9_win64.dll` (Oodle) na mesma pasta do `.exe`. Ele é proprietário (RAD/Epic) e não é distribuído — pegue de qualquer jogo Unreal Engine que você já tenha. Sem ele, só os ajustes de gráfico/áudio funcionam.
 3. **Feche o Path of Exile**, abra o app, marque as opções e clique **Aplicar**.
 4. Abra o jogo e teste (tecla **F1** mostra o FPS).
