@@ -29,11 +29,14 @@ Faz backup automático e permite restaurar a qualquer momento.
 ## Como baixar e rodar
 
 1. Em **[Releases](../../releases/latest)**, baixe o `PoeBatata.exe`.
-2. **Requisito:** coloque um arquivo `oo2core_9_win64.dll` (Oodle) na mesma pasta do `.exe`. Ele é proprietário (RAD/Epic) e não é distribuído junto; você pode obtê-lo de qualquer jogo feito em Unreal Engine que já tenha instalado. Sem ele, só os ajustes de gráfico e áudio funcionam.
-3. **Feche o Path of Exile**, abra o app, marque as opções e clique **Aplicar**.
-4. Abra o jogo (a tecla **F1** mostra o FPS).
+2. **Feche o Path of Exile**, abra o app, marque as opções e clique **Aplicar**.
+3. Abra o jogo (a tecla **F1** mostra o FPS).
+
+O app cuida do resto sozinho: detecta a instalação do jogo e prepara automaticamente a biblioteca de compressão necessária (ele a encontra em algum jogo que você já tem no PC). Você não precisa instalar nem configurar nada.
 
 Para desfazer: botão **Restaurar tudo**, ou Steam → Verificar integridade.
+
+> Se o item **"Biblioteca de partículas"** aparecer como não encontrada, basta ter qualquer jogo feito em Unreal Engine instalado (a maioria das pessoas já tem). Os ajustes de gráfico e áudio funcionam mesmo sem ela.
 
 ## ⚠️ Aviso
 
