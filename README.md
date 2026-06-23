@@ -28,15 +28,13 @@ Faz backup automático e permite restaurar a qualquer momento.
 
 ## Como baixar e rodar
 
-1. Em **[Releases](../../releases/latest)**, baixe o **`PoeBatata.zip`** e **extraia** a pasta.
-2. **Feche o Path of Exile**, abra o **`PoeBatata.exe`**, marque as opções e clique **Aplicar**.
+1. Em **[Releases](../../releases/latest)**, baixe o **`PoeBatata.exe`**.
+2. **Feche o Path of Exile**, abra o `PoeBatata.exe`, marque as opções e clique **Aplicar**.
 3. Abra o jogo (a tecla **F1** mostra o FPS).
 
-O `.zip` já vem com tudo o que precisa. Mantenha os arquivos extraídos **na mesma pasta**.
+**É um arquivo só e já vem com tudo** — não precisa instalar nem configurar nada.
 
 Para desfazer: botão **Restaurar tudo**, ou Steam → Verificar integridade.
-
-> Prefere o executável avulso? O `PoeBatata.exe` também está solto no Releases. Nesse caso o app procura a biblioteca de partículas nos jogos que você já tem; se não achar, gráficos e áudio funcionam mesmo assim.
 
 ## ⚠️ Aviso
 
